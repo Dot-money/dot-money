@@ -1,3 +1,5 @@
+node_modules/
+
 # 401 JS
 db
 **.env
